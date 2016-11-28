@@ -2,6 +2,7 @@
 
  - feature A
  - Fix B
+ - featrue C
  
 
  
